@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
