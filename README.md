@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1251-average-selling-price) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/pushpanjali21-p/Leetcodeee/tree/master/1729-find-followers-count) |
